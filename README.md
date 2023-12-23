@@ -6,8 +6,7 @@
 
 - My Bank Payment offers credit cards that can help improve your financial life by building credit, earning rewards, and saving money.
 - The website provides secure transactions and offer balance transfer options to save on interest charges. The app also mentions the ability to easily control billing and invoicing, and finding better card deals.
-- Testimonials from the founders highlight the importance of money and its role in our lives. This website concludes by inviting readers to try their service and providing useful links and community resources.
-
+- Testimonials from the board highlight the importance of money and its role in our lives. This website concludes by inviting readers to try their service and providing useful links and community resources.
 
 ![Hoobank](https://ressuman.github.io/hoobank/)
 
