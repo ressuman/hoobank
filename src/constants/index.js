@@ -65,7 +65,7 @@ export const feedback = [
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Paa Kwesi",
     title: "Board Chairperson",
-    img: people01,
+    img: people03,
   },
   {
     id: "feedback-2",
@@ -81,7 +81,7 @@ export const feedback = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Essuman",
     title: "CFO",
-    img: people03,
+    img: people01,
   },
 ];
 
