@@ -1,8 +1,13 @@
-# React + Vite
+# HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the project":"
 
-Currently, two official plugins are available:
+- My Bank Payment offers credit cards that can help improve your financial life by building credit, earning rewards, and saving money.
+- They provide secure transactions and offer balance transfer options to save on interest charges. The article also mentions the ability to easily control billing and invoicing, and finding better card deals.
+- Testimonials from the founders highlight the importance of money and its role in our lives. The article concludes by inviting readers to try their service and providing useful links and community resources.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-HooBank is a modern and minimalistic banking platform built with React.js, Tailwind CSS, and custom components developed by me.
+
+![Hoobank](https://ressuman.github.io/hoobank/)
+
+![Logo](dist/logo.png)
