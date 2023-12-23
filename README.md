@@ -1,6 +1,6 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-## About the project":"
+## About the project:
 
 - My Bank Payment offers credit cards that can help improve your financial life by building credit, earning rewards, and saving money.
 - They provide secure transactions and offer balance transfer options to save on interest charges. The article also mentions the ability to easily control billing and invoicing, and finding better card deals.
